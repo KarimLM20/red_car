@@ -7,8 +7,8 @@ hommage assumé à l’Inspecteur Nahnah et à l’ambiance légendaire de Halal
 Le but ici était de s'initier à l'authentification.
 
 L’accès est sécurisé par un système d’authentification simple. Pour le moment un seul utilisateur:
-- Username -> voiture
-- Password -> rouge
+⚠️ - Username -> voiture ⚠️
+⚠️ - Password -> rouge⚠️
 
 Chaque utilisateur accède à une interface avec des pages personnalisées :  
 - **🥸 Accueil** : message de bienvenue dynamique  
